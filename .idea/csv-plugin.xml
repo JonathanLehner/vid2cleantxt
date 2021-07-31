@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\example_JFK_speech\TEST_singlefile\v2clntxt_transc_metadata\metadata for president_john_f_kennedys_peace_speec transcription.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\example_JFK_speech\TEST_singlefile\v2clntxt_transcriptions\YAKE - keywords for nsc_president_john_f_kennedys_peace_spee_ct_script_0148.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
